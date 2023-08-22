@@ -12,7 +12,7 @@ Welcome to the CodSoft Java Development Internship repository! This repository d
 
 ### Task 2: Student Grade Calculator
 - Calculate total marks and average percentage.
-- Assign grades and display results.
+- Assign grades and display results. 
 
 ### Task 3: ATM Interface
 - Create an ATM class with withdraw, deposit, and checkBalance methods.
